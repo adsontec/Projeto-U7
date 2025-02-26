@@ -14,6 +14,7 @@ O objetivo deste projeto é criar um simulador de estoque utilizando uma matriz 
    - 🟡 LED **amarelo**: Representa **bananas** 🍌.
    - 🟢 LED **verde**: Representa **abacates** 🥑.
    - 🟣 LED **roxo**: Representa **uvas** 🍇.
+   - 🟠 LED **laranja**: Representa **laranja** 🍊
    
    As cores dos LEDs serão manipuladas conforme a quantidade de estoque disponível para cada produto.
 
